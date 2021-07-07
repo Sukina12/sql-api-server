@@ -8,10 +8,11 @@
 
 ### Tests & Deployment :
 
-[Test]()
+[Test](https://github.com/Sukina12/sql-api-server/actions)
 
+![test](test9.PNG)
 
-[PullRequest]()
+[PullRequest](https://github.com/Sukina12/sql-api-server/pull/1)
 
 #### Setup
 
