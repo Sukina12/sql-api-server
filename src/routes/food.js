@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const Interface = require('../models/clothesInterface');
+const Interface = require('../models/foodInterface');
 const food = new Interface();
 
 let router = express.Router();
