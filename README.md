@@ -12,6 +12,8 @@
 
 ![test](test9.PNG)
 
+[deployment](https://sukina-sql-api-server.herokuapp.com/)
+
 [PullRequest](https://github.com/Sukina12/sql-api-server/pull/1)
 
 #### Setup
